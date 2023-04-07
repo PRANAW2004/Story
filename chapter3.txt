@@ -1,1 +1,8 @@
-It was a pleasure meeting you and experiencing the knowledge and sharing the knowledge
+hfaofhiowaf fhidoawhfkoawhefiohawef bfjuaiwhfgwehfgawbec bfjdsabhfjil;
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/PRANAW2004/Story.git
+git push -u origin main
